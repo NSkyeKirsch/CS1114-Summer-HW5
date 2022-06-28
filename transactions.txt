@@ -1,0 +1,14 @@
+Account moe 6
+Deposit 6 10.50
+Withdraw 6 100.25
+Print 6
+Account larry 28
+Print 28
+Withdraw 28 100.00
+Deposit 28 10.00
+Deposit 28 10.00
+Withdraw 6 5.25
+Account curly 42
+Print 6
+Print 28
+Print 42
